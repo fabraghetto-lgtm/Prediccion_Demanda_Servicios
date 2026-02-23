@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Secrets / Credenciales
+*.json
+!api/artifacts/metadata.json
+credentials*.json
+token.json
+
+# Artefactos de modelo grandes (regenerar si es necesario)
+# api/artifacts/*.joblib
+
+# Mapeo privado de anonimización (NUNCA subir)
+_mapeo_privado.json
+anonimizar_datos.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporal
+*.tmp
+*.temp
