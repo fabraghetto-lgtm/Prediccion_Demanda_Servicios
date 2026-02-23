@@ -160,10 +160,8 @@
     "Tasa_asignación"
   ],
   "categorical": [
-    "Especialidad",
     "Semana_Iso",
-    "Mes",
-    "Dia_Sem_Iso",
+    "Especialidad",
     "Jornada_Horaria"
   ],
   "categorical_values": {
@@ -321,6 +319,6 @@
       "Turno_C"
     ]
   },
-  "r2_test": 0.9871970283957797,
-  "mae_test": 2.1462124455482026
+  "r2_test": 0.9841439481054509,
+  "mae_test": 2.138306970736389
 }
