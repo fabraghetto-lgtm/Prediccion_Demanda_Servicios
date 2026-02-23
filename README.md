@@ -143,7 +143,7 @@ uvicorn api.app:app --host 127.0.0.1 --port 8000
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<tu-usuario>/Prediccion_Demanda_Servicios.git
+git clone https://github.com/fabraghett/Prediccion_Demanda_Servicios.git
 cd Prediccion_Demanda_Servicios
 
 # 2. Crear entorno virtual
@@ -174,6 +174,12 @@ uvicorn api.app:app --port 8000
 | Visualización | Matplotlib, Seaborn |
 | API | FastAPI, Uvicorn, Pydantic |
 | Deploy | Render.com |
+
+---
+
+## Autor
+
+Creado por [**fabraghett**](https://github.com/fabraghett).
 
 ---
 

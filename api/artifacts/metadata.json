@@ -76,6 +76,7 @@
     "Especialidad_Categoria_67",
     "Especialidad_Categoria_68",
     "Especialidad_Categoria_69",
+    "Especialidad_Categoria_Desconocida",
     "Jornada_Horaria_Turno_B",
     "Jornada_Horaria_Turno_C"
   ],
@@ -149,6 +150,7 @@
     "Especialidad_Categoria_67",
     "Especialidad_Categoria_68",
     "Especialidad_Categoria_69",
+    "Especialidad_Categoria_Desconocida",
     "Jornada_Horaria_Turno_B",
     "Jornada_Horaria_Turno_C"
   ],
@@ -234,7 +236,8 @@
       "Categoria_66",
       "Categoria_67",
       "Categoria_68",
-      "Categoria_69"
+      "Categoria_69",
+      "Categoria_Desconocida"
     ],
     "Semana_Iso": [
       1,
@@ -318,6 +321,6 @@
       "Turno_C"
     ]
   },
-  "r2_test": 0.985977659450606,
-  "mae_test": 2.109087267211078
+  "r2_test": 0.9871970283957797,
+  "mae_test": 2.1462124455482026
 }
